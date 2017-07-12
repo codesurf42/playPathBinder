@@ -1,4 +1,4 @@
-name := """playApp_pathBinder"""
+name := """playPathBinder"""
 
 version := "1.0-SNAPSHOT"
 
